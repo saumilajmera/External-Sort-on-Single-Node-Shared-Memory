@@ -1,0 +1,18 @@
+Generating Files of 100MB
+Time in seconds to generate files is
+13
+Sort Started
+Running Threads: 4
+Total Files: 20
+Input File Name: /input/data-2GB.in
+Time taken in seconds to sort all files: 16.572
+Merging sorted files
+Total time taken in seconds to sort and merge single file: 41.924
+Sort Completed
+Running valsort to verify the output file
+Records: 20000000
+Checksum: 98923e9cff98ac
+Duplicate keys: 0
+SUCCESS - all records are in order
+Total time in seconds for splitting 2GB file into 20 files of 100MB and sorting with 4 threads and verifying the output file is
+65
